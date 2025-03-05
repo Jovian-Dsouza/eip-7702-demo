@@ -28,8 +28,8 @@ Replay protection is provided by an internal nonce that increments after each ba
 
 ```sh
 curl -L https://foundry.paradigm.xyz | bash
-git clone https://github.com/quiknode-labs/qn-guide-examples.git
-cd qn-guide-examples/ethereum/eip-7702
+git clone https://github.com/Jovian-Dsouza/eip-7702-demo
+cd eip-7702-demo
 ```
 
 ### Step 2: Install Packages and Create the Remappings File
